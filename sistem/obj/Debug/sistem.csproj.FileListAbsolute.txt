@@ -1,0 +1,9 @@
+C:\Users\Seymur\Desktop\BASE-1\sistem\sistem\bin\Debug\sistem.exe.config
+C:\Users\Seymur\Desktop\BASE-1\sistem\sistem\bin\Debug\sistem.exe
+C:\Users\Seymur\Desktop\BASE-1\sistem\sistem\bin\Debug\sistem.pdb
+C:\Users\Seymur\Desktop\BASE-1\sistem\sistem\obj\Debug\sistem.Form1.resources
+C:\Users\Seymur\Desktop\BASE-1\sistem\sistem\obj\Debug\sistem.Properties.Resources.resources
+C:\Users\Seymur\Desktop\BASE-1\sistem\sistem\obj\Debug\sistem.csproj.GenerateResource.Cache
+C:\Users\Seymur\Desktop\BASE-1\sistem\sistem\obj\Debug\sistem.exe
+C:\Users\Seymur\Desktop\BASE-1\sistem\sistem\obj\Debug\sistem.pdb
+C:\Users\Seymur\Desktop\BASE-1\sistem\sistem\obj\Debug\sistem.csprojResolveAssemblyReference.cache
